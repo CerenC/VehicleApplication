@@ -1,5 +1,10 @@
 # VehicleApplication
-MVVM Architectural patterna applied,
-Coroutines be used for threading and asynchronous programming
-Dagger2 be used for Dependency Injection 
-Retrofit, Moshi be used for networking
+
+ ## Tech-stack used:
+ * Language - Kotlin
+ * Architecture - MVVM + Clean
+ * Architectural Components
+ * Asynchronous or non-blocking programming - Coroutines
+ * Networking - Retrofit 2
+ * Json converter - Moshi
+ * Dependency Injection - Dagger 2
