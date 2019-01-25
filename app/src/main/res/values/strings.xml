@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vehicles</string>
+    <string name="vehicle_id">Id: %1$s</string>
+    <string name="vehicle_color">Color: %1$s</string>
+    <string name="vehicle_type">Type: %1$s</string>
+    <string name="vehicle_country">Type: %1$s</string>
+    <string name="error_message">Something went wrong. Please try again later.</string>
+</resources>
